@@ -1,0 +1,4 @@
+#Wed May 11 02:13:23 IST 2022
+base.0=H\:\\SEM_4_CSE\\web\\Mini_Project\\SimpleExpenseManager\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
