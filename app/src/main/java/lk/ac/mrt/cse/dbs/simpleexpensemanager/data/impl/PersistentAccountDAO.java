@@ -13,7 +13,7 @@ import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.exception.InvalidAccountExcep
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.Account;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.ExpenseType;
 
-public class PersistentAccountDAO extends DB_Helper implements AccountDAO {
+public class   PersistentAccountDAO extends DB_Helper implements AccountDAO {
     private List<String> accountsNoList;
     private List<Account> accountsList;
     public PersistentAccountDAO(Context context) {
